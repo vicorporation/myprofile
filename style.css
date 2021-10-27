@@ -1,0 +1,55 @@
+h1 {
+	color: floralwhite;
+	font-size: 30px;
+	font-family: Arial;
+}
+
+h2	{
+	color: floralwhite;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+body {
+	background-color: black;
+	text-align: center;
+
+
+}
+
+p {
+	color: floralwhite;
+	font-size: 15px;
+	font-family: arial;
+}
+
+img {
+	width: 150px;
+	border-radius: 50%;
+	
+
+}
+
+h3{
+	color: floralwhite;
+	font-size: 30px;
+	font-family: arial;
+}
+
+h4{
+	color: floralwhite;
+	font-size: 30px;
+	font-family: arial;
+}
+
+h5{
+	color: floralwhite;
+	font-size: 30px;
+	font-family: arial;
+}
+
+li	{
+	color: floralwhite;
+	font-size: 20px;
+	font-family: Arial;
+}
